@@ -36,7 +36,6 @@ begin
         variable img_part : signed(size_of_signals - 1 downto 0) := (others => '0');
     begin
         if rst = '1' then
-            -- q0 <= (0 => '1', others => '0');
             q0 := (others => '0');
             q1 := (others => '0');
             q2 := (others => '0');
@@ -46,22 +45,14 @@ begin
 
         -- rising edge
         elsif clk'event and clk='1' then
-            -- Q0 = coeff * Q1 - Q2 + signal(n);
             q0 := resize(coefficient * q1 / coefficient_mul, q0'length) - q2 + signed("0000" & (input_signal/100));
-            -- q0 <= coefficient * q1 - q2 + resize(signed("0" & input_signal), 18);
-            -- q0 <= coefficient * q1 - q2 + resize(signed(input_signal), 18);
             
             q2 := q1;
             q1 := q0;
-            -- realPart = Q1 - Q2 * cosine;
-            -- imagPart = Q2 * sine;
-            -- magnitude = sqrt(realPart^2 + imagPart^2);
             real_part := q1 - resize(q2 * cosine / sine_mul, q1'length);
             img_part := resize(q2 * sine / sine_mul, q2'length);
             magnitude <= resize(resize(real_part * real_part, magnitude'length) + resize(img_part * img_part, magnitude'length), magnitude'length);
             report "magnitude: " & to_hstring(magnitude);
-            -- report "magnitude: " & to_hstring(magnitude);
-
             q0_v <= q0;
             q1_v <= q1;
             q2_v <= q2;
