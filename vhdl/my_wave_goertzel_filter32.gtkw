@@ -1,0 +1,81 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Fri Jul 28 13:40:36 2023
+[*]
+[dumpfile] "/Users/mac/zzzzz/vhdl/icarus-verilog/wave_file_reader.ghw"
+[dumpfile_mtime] "Fri Jul 28 13:05:10 2023"
+[dumpfile_size] 86303
+[savefile] "/Users/mac/zzzzz/vhdl/icarus-verilog/my_wave_goertzel_filter32.gtkw"
+[timestart] 0
+[size] 1352 844
+[pos] -1 -2
+*-35.644356 101500000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.read_signal.
+[treeopen] top.read_signal.dut.
+[sst_width] 193
+[signals_width] 257
+[sst_expanded] 1
+[sst_vpaned_height] 562
+@28
+top.read_signal.clk
+@8420
+#{top.read_signal.dut.q0_v[31:0]} top.read_signal.dut.q0_v[31] top.read_signal.dut.q0_v[30] top.read_signal.dut.q0_v[29] top.read_signal.dut.q0_v[28] top.read_signal.dut.q0_v[27] top.read_signal.dut.q0_v[26] top.read_signal.dut.q0_v[25] top.read_signal.dut.q0_v[24] top.read_signal.dut.q0_v[23] top.read_signal.dut.q0_v[22] top.read_signal.dut.q0_v[21] top.read_signal.dut.q0_v[20] top.read_signal.dut.q0_v[19] top.read_signal.dut.q0_v[18] top.read_signal.dut.q0_v[17] top.read_signal.dut.q0_v[16] top.read_signal.dut.q0_v[15] top.read_signal.dut.q0_v[14] top.read_signal.dut.q0_v[13] top.read_signal.dut.q0_v[12] top.read_signal.dut.q0_v[11] top.read_signal.dut.q0_v[10] top.read_signal.dut.q0_v[9] top.read_signal.dut.q0_v[8] top.read_signal.dut.q0_v[7] top.read_signal.dut.q0_v[6] top.read_signal.dut.q0_v[5] top.read_signal.dut.q0_v[4] top.read_signal.dut.q0_v[3] top.read_signal.dut.q0_v[2] top.read_signal.dut.q0_v[1] top.read_signal.dut.q0_v[0]
+@20000
+-
+-
+-
+@8420
+#{top.read_signal.dut.real_part_v[31:0]} top.read_signal.dut.real_part_v[31] top.read_signal.dut.real_part_v[30] top.read_signal.dut.real_part_v[29] top.read_signal.dut.real_part_v[28] top.read_signal.dut.real_part_v[27] top.read_signal.dut.real_part_v[26] top.read_signal.dut.real_part_v[25] top.read_signal.dut.real_part_v[24] top.read_signal.dut.real_part_v[23] top.read_signal.dut.real_part_v[22] top.read_signal.dut.real_part_v[21] top.read_signal.dut.real_part_v[20] top.read_signal.dut.real_part_v[19] top.read_signal.dut.real_part_v[18] top.read_signal.dut.real_part_v[17] top.read_signal.dut.real_part_v[16] top.read_signal.dut.real_part_v[15] top.read_signal.dut.real_part_v[14] top.read_signal.dut.real_part_v[13] top.read_signal.dut.real_part_v[12] top.read_signal.dut.real_part_v[11] top.read_signal.dut.real_part_v[10] top.read_signal.dut.real_part_v[9] top.read_signal.dut.real_part_v[8] top.read_signal.dut.real_part_v[7] top.read_signal.dut.real_part_v[6] top.read_signal.dut.real_part_v[5] top.read_signal.dut.real_part_v[4] top.read_signal.dut.real_part_v[3] top.read_signal.dut.real_part_v[2] top.read_signal.dut.real_part_v[1] top.read_signal.dut.real_part_v[0]
+@22
+#{top.read_signal.dut.magnitude[39:0]} top.read_signal.dut.magnitude[39] top.read_signal.dut.magnitude[38] top.read_signal.dut.magnitude[37] top.read_signal.dut.magnitude[36] top.read_signal.dut.magnitude[35] top.read_signal.dut.magnitude[34] top.read_signal.dut.magnitude[33] top.read_signal.dut.magnitude[32] top.read_signal.dut.magnitude[31] top.read_signal.dut.magnitude[30] top.read_signal.dut.magnitude[29] top.read_signal.dut.magnitude[28] top.read_signal.dut.magnitude[27] top.read_signal.dut.magnitude[26] top.read_signal.dut.magnitude[25] top.read_signal.dut.magnitude[24] top.read_signal.dut.magnitude[23] top.read_signal.dut.magnitude[22] top.read_signal.dut.magnitude[21] top.read_signal.dut.magnitude[20] top.read_signal.dut.magnitude[19] top.read_signal.dut.magnitude[18] top.read_signal.dut.magnitude[17] top.read_signal.dut.magnitude[16] top.read_signal.dut.magnitude[15] top.read_signal.dut.magnitude[14] top.read_signal.dut.magnitude[13] top.read_signal.dut.magnitude[12] top.read_signal.dut.magnitude[11] top.read_signal.dut.magnitude[10] top.read_signal.dut.magnitude[9] top.read_signal.dut.magnitude[8] top.read_signal.dut.magnitude[7] top.read_signal.dut.magnitude[6] top.read_signal.dut.magnitude[5] top.read_signal.dut.magnitude[4] top.read_signal.dut.magnitude[3] top.read_signal.dut.magnitude[2] top.read_signal.dut.magnitude[1] top.read_signal.dut.magnitude[0]
+@20000
+-
+-
+-
+@28
+top.read_signal.rst
+@8022
+#{top.read_signal.data_signal[13:0]} top.read_signal.data_signal[13] top.read_signal.data_signal[12] top.read_signal.data_signal[11] top.read_signal.data_signal[10] top.read_signal.data_signal[9] top.read_signal.data_signal[8] top.read_signal.data_signal[7] top.read_signal.data_signal[6] top.read_signal.data_signal[5] top.read_signal.data_signal[4] top.read_signal.data_signal[3] top.read_signal.data_signal[2] top.read_signal.data_signal[1] top.read_signal.data_signal[0]
+@20000
+-
+-
+@8421
+#{top.read_signal.magnitude[39:0]} top.read_signal.magnitude[39] top.read_signal.magnitude[38] top.read_signal.magnitude[37] top.read_signal.magnitude[36] top.read_signal.magnitude[35] top.read_signal.magnitude[34] top.read_signal.magnitude[33] top.read_signal.magnitude[32] top.read_signal.magnitude[31] top.read_signal.magnitude[30] top.read_signal.magnitude[29] top.read_signal.magnitude[28] top.read_signal.magnitude[27] top.read_signal.magnitude[26] top.read_signal.magnitude[25] top.read_signal.magnitude[24] top.read_signal.magnitude[23] top.read_signal.magnitude[22] top.read_signal.magnitude[21] top.read_signal.magnitude[20] top.read_signal.magnitude[19] top.read_signal.magnitude[18] top.read_signal.magnitude[17] top.read_signal.magnitude[16] top.read_signal.magnitude[15] top.read_signal.magnitude[14] top.read_signal.magnitude[13] top.read_signal.magnitude[12] top.read_signal.magnitude[11] top.read_signal.magnitude[10] top.read_signal.magnitude[9] top.read_signal.magnitude[8] top.read_signal.magnitude[7] top.read_signal.magnitude[6] top.read_signal.magnitude[5] top.read_signal.magnitude[4] top.read_signal.magnitude[3] top.read_signal.magnitude[2] top.read_signal.magnitude[1] top.read_signal.magnitude[0]
+@20000
+-
+-
+-
+-
+-
+@8420
+#{top.read_signal.dut.q0_v[31:0]} top.read_signal.dut.q0_v[31] top.read_signal.dut.q0_v[30] top.read_signal.dut.q0_v[29] top.read_signal.dut.q0_v[28] top.read_signal.dut.q0_v[27] top.read_signal.dut.q0_v[26] top.read_signal.dut.q0_v[25] top.read_signal.dut.q0_v[24] top.read_signal.dut.q0_v[23] top.read_signal.dut.q0_v[22] top.read_signal.dut.q0_v[21] top.read_signal.dut.q0_v[20] top.read_signal.dut.q0_v[19] top.read_signal.dut.q0_v[18] top.read_signal.dut.q0_v[17] top.read_signal.dut.q0_v[16] top.read_signal.dut.q0_v[15] top.read_signal.dut.q0_v[14] top.read_signal.dut.q0_v[13] top.read_signal.dut.q0_v[12] top.read_signal.dut.q0_v[11] top.read_signal.dut.q0_v[10] top.read_signal.dut.q0_v[9] top.read_signal.dut.q0_v[8] top.read_signal.dut.q0_v[7] top.read_signal.dut.q0_v[6] top.read_signal.dut.q0_v[5] top.read_signal.dut.q0_v[4] top.read_signal.dut.q0_v[3] top.read_signal.dut.q0_v[2] top.read_signal.dut.q0_v[1] top.read_signal.dut.q0_v[0]
+@20000
+-
+-
+-
+-
+@420
+#{top.read_signal.dut.q1_v[31:0]} top.read_signal.dut.q1_v[31] top.read_signal.dut.q1_v[30] top.read_signal.dut.q1_v[29] top.read_signal.dut.q1_v[28] top.read_signal.dut.q1_v[27] top.read_signal.dut.q1_v[26] top.read_signal.dut.q1_v[25] top.read_signal.dut.q1_v[24] top.read_signal.dut.q1_v[23] top.read_signal.dut.q1_v[22] top.read_signal.dut.q1_v[21] top.read_signal.dut.q1_v[20] top.read_signal.dut.q1_v[19] top.read_signal.dut.q1_v[18] top.read_signal.dut.q1_v[17] top.read_signal.dut.q1_v[16] top.read_signal.dut.q1_v[15] top.read_signal.dut.q1_v[14] top.read_signal.dut.q1_v[13] top.read_signal.dut.q1_v[12] top.read_signal.dut.q1_v[11] top.read_signal.dut.q1_v[10] top.read_signal.dut.q1_v[9] top.read_signal.dut.q1_v[8] top.read_signal.dut.q1_v[7] top.read_signal.dut.q1_v[6] top.read_signal.dut.q1_v[5] top.read_signal.dut.q1_v[4] top.read_signal.dut.q1_v[3] top.read_signal.dut.q1_v[2] top.read_signal.dut.q1_v[1] top.read_signal.dut.q1_v[0]
+@20000
+-
+-
+-
+@420
+#{top.read_signal.dut.q2_v[31:0]} top.read_signal.dut.q2_v[31] top.read_signal.dut.q2_v[30] top.read_signal.dut.q2_v[29] top.read_signal.dut.q2_v[28] top.read_signal.dut.q2_v[27] top.read_signal.dut.q2_v[26] top.read_signal.dut.q2_v[25] top.read_signal.dut.q2_v[24] top.read_signal.dut.q2_v[23] top.read_signal.dut.q2_v[22] top.read_signal.dut.q2_v[21] top.read_signal.dut.q2_v[20] top.read_signal.dut.q2_v[19] top.read_signal.dut.q2_v[18] top.read_signal.dut.q2_v[17] top.read_signal.dut.q2_v[16] top.read_signal.dut.q2_v[15] top.read_signal.dut.q2_v[14] top.read_signal.dut.q2_v[13] top.read_signal.dut.q2_v[12] top.read_signal.dut.q2_v[11] top.read_signal.dut.q2_v[10] top.read_signal.dut.q2_v[9] top.read_signal.dut.q2_v[8] top.read_signal.dut.q2_v[7] top.read_signal.dut.q2_v[6] top.read_signal.dut.q2_v[5] top.read_signal.dut.q2_v[4] top.read_signal.dut.q2_v[3] top.read_signal.dut.q2_v[2] top.read_signal.dut.q2_v[1] top.read_signal.dut.q2_v[0]
+@20000
+-
+-
+@8420
+#{top.read_signal.dut.real_part_v[17:0]} top.read_signal.dut.real_part_v[17] top.read_signal.dut.real_part_v[16] top.read_signal.dut.real_part_v[15] top.read_signal.dut.real_part_v[14] top.read_signal.dut.real_part_v[13] top.read_signal.dut.real_part_v[12] top.read_signal.dut.real_part_v[11] top.read_signal.dut.real_part_v[10] top.read_signal.dut.real_part_v[9] top.read_signal.dut.real_part_v[8] top.read_signal.dut.real_part_v[7] top.read_signal.dut.real_part_v[6] top.read_signal.dut.real_part_v[5] top.read_signal.dut.real_part_v[4] top.read_signal.dut.real_part_v[3] top.read_signal.dut.real_part_v[2] top.read_signal.dut.real_part_v[1] top.read_signal.dut.real_part_v[0]
+@20000
+-
+@8420
+#{top.read_signal.dut.img_part_v[17:0]} top.read_signal.dut.img_part_v[17] top.read_signal.dut.img_part_v[16] top.read_signal.dut.img_part_v[15] top.read_signal.dut.img_part_v[14] top.read_signal.dut.img_part_v[13] top.read_signal.dut.img_part_v[12] top.read_signal.dut.img_part_v[11] top.read_signal.dut.img_part_v[10] top.read_signal.dut.img_part_v[9] top.read_signal.dut.img_part_v[8] top.read_signal.dut.img_part_v[7] top.read_signal.dut.img_part_v[6] top.read_signal.dut.img_part_v[5] top.read_signal.dut.img_part_v[4] top.read_signal.dut.img_part_v[3] top.read_signal.dut.img_part_v[2] top.read_signal.dut.img_part_v[1] top.read_signal.dut.img_part_v[0]
+#{top.read_signal.dut.img_part_v[31:0]} top.read_signal.dut.img_part_v[31] top.read_signal.dut.img_part_v[30] top.read_signal.dut.img_part_v[29] top.read_signal.dut.img_part_v[28] top.read_signal.dut.img_part_v[27] top.read_signal.dut.img_part_v[26] top.read_signal.dut.img_part_v[25] top.read_signal.dut.img_part_v[24] top.read_signal.dut.img_part_v[23] top.read_signal.dut.img_part_v[22] top.read_signal.dut.img_part_v[21] top.read_signal.dut.img_part_v[20] top.read_signal.dut.img_part_v[19] top.read_signal.dut.img_part_v[18] top.read_signal.dut.img_part_v[17] top.read_signal.dut.img_part_v[16] top.read_signal.dut.img_part_v[15] top.read_signal.dut.img_part_v[14] top.read_signal.dut.img_part_v[13] top.read_signal.dut.img_part_v[12] top.read_signal.dut.img_part_v[11] top.read_signal.dut.img_part_v[10] top.read_signal.dut.img_part_v[9] top.read_signal.dut.img_part_v[8] top.read_signal.dut.img_part_v[7] top.read_signal.dut.img_part_v[6] top.read_signal.dut.img_part_v[5] top.read_signal.dut.img_part_v[4] top.read_signal.dut.img_part_v[3] top.read_signal.dut.img_part_v[2] top.read_signal.dut.img_part_v[1] top.read_signal.dut.img_part_v[0]
+@200
+-
+@20000
+-
+[pattern_trace] 1
+[pattern_trace] 0
