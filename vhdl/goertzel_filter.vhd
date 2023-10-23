@@ -52,7 +52,7 @@ begin
             real_part := q1 - resize(q2 * cosine / sine_mul, q1'length);
             img_part := resize(q2 * sine / sine_mul, q2'length);
             magnitude <= resize(resize(real_part * real_part, magnitude'length) + resize(img_part * img_part, magnitude'length), magnitude'length);
-            report "magnitude: " & to_hstring(magnitude);
+            -- report "magnitude: " & to_hstring(magnitude);
             q0_v <= q0;
             q1_v <= q1;
             q2_v <= q2;
